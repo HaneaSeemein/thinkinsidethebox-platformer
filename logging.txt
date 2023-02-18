@@ -1,3 +1,0 @@
-INFO:root:box and target collided
-INFO:root:player and box collided
-INFO:root:player and box collided
